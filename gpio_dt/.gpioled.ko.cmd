@@ -1,0 +1,1 @@
+cmd_/home/te/桌面/Lichee_Pi/linux_Drives/gpio_dt/gpioled.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/te/桌面/Lichee_Pi/linux_Drives/gpio_dt/gpioled.ko /home/te/桌面/Lichee_Pi/linux_Drives/gpio_dt/gpioled.o /home/te/桌面/Lichee_Pi/linux_Drives/gpio_dt/gpioled.mod.o ;  true
